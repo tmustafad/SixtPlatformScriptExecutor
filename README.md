@@ -10,7 +10,7 @@ I have created five packages.
  
  Util Package ==> In this package, I have created a static method for parsing  the Scripts.txt file to get the dependencies of the given script id. 
  
- Test Package==> In this package, I have tested some cases based on the ids in the Scripts.txt file. Below is a test case and its corresponding results
+ Test Package==> In this package, I have tested some cases based on the ids in the Scripts.txt file. Below is a test case and its corresponding results  .You can find the Scripts.txt file in the root of the project
  
 The Scripts to in the file ==>
 
